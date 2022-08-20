@@ -1,0 +1,14 @@
+
+
+https://dbdb.io/db/rqlite = sqlites + http server
+https://dbdb.io/db/druid = inmem olap
+https://dbdb.io/db/neptune
+https://dbdb.io/db/jena
+
+
+
+columnar databases
+https://www.dotnetfunda.com/interviews/show/6386/what-are-some-of-the-pros-and-cons-of-columnar-database
+https://www.techwell.com/techwell-insights/2020/05/benefits-using-columnar-storage-relational-database-management-systems More suitable for OLAP. Eg mariadb
+https://hevodata.com/learn/columnar-databases/
+
