@@ -1,0 +1,53 @@
+
+
+M4:
+
+changequote(`{{',`}}')
+
+dnl this is a comment
+
+changecom
+
+undefine({{format}})
+
+define(M4_EXAMPLES,{{
+
+echo $1
+
+echo $2
+
+}})
+
+ 
+
+M4_EXAMPLES(a,b)
+
+ 
+
+include(inc/a.inc)
+
+ 
+
+ 
+
+block comment:
+
+ifelse({{
+
+…
+
+}})
+
+ 
+
+If:
+
+ifelse($1,WORK,{{
+
+…
+
+}},)
+
+ 
+
+--

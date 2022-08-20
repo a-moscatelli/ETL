@@ -1,3 +1,20 @@
 
+--------------------------
+
 compute the md5 checksum of a file on Windows:
 certutil -hashfile \\hostname\path\file.csv md5
+
+--------------------------
+ 
+net use Z: /delete
+net use Z: \\MACHINENAME.mydomain.com\FOLDER   /user:%NETU% %NETP%
+
+--------------------------
+
+subst v: m:\dev
+v:
+dir
+subst v: /d
+--------------------------
+
+
