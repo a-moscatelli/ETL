@@ -1,0 +1,32 @@
+
+version: "3.3"
+
+# ref. guide:   https://github.com/compose-spec/compose-spec/blob/master/spec.md
+#               https://github.com/compose-spec/compose-spec/blob/master/deploy.md
+
+
+services:
+
+    postgres:
+        # https://hub.docker.com/_/postgres
+        ports:
+        - "5432:5432"
+        image: "postgres:9.6.20"    # 20MB
+        restart: always
+        environment:
+            PGDATA: /var/lib/postgresql/data/pgdata
+            POSTGRES_PASSWORD: $PGPWD
+            POSTGRES_USER: postgres # default:postgres
+            POSTGRES_DB: postgres # default:POSTGRES_USER
+        volumes:
+        - "/m/DEV/docker_volumes/pg4knime:/var/lib/postgresql/data"
+
+    #superset:
+      # https://hub.docker.com/r/apache/superset#!
+      #  ports:
+      #  - "8080:8080"
+      #  image: "apache/superset:9.6.20"    # 20MB
+
+#   This docker image contains only the base Superset build, excluding database drivers that you will need to connect to your analytics DB (MySQL, Postgres, BigQuery, Snowflake, Redshift, etc.) 
+
+    
