@@ -1,0 +1,9 @@
+"RowId Compared Table","RowId Reference Table","Column Name","Value Compared Table","Value Reference Table"
+"blackberry#S","blackberry#S","fruit",,"blackberry"
+"blackberry#S","blackberry#S","season",,"S"
+"blackberry#S","blackberry#S","portion1kg",,"40"
+"blueberry#A","blueberry#A","portion1kg","22","12"
+"date#W","date#W","portion1kg",,"5"
+"kiwi#W","kiwi#W","fruit","kiwi",
+"kiwi#W","kiwi#W","season","W",
+"kiwi#W","kiwi#W","portion1kg","4",
