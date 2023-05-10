@@ -1,0 +1,207 @@
+countryId,countryLabel,capitalId,capitalLabel
+Q889,Afghanistan,Q5838,Kabul
+Q222,Albania,Q19689,Tirana
+Q262,Algeria,Q3561,Algiers
+Q228,Andorra,Q1863,Andorra la Vella
+Q916,Angola,Q3897,Luanda
+Q781,Antigua and Barbuda,Q36262,Saint John's
+Q414,Argentina,Q1486,Buenos Aires
+Q399,Armenia,Q1953,Yerevan
+Q408,Australia,Q3114,Canberra
+Q40,Austria,Q1741,Vienna
+Q227,Azerbaijan,Q9248,Baku
+Q398,Bahrain,Q3882,Manama
+Q902,Bangladesh,Q1354,Dhaka
+Q244,Barbados,Q36168,Bridgetown
+Q184,Belarus,Q2280,Minsk
+Q31,Belgium,Q239,City of Brussels
+Q242,Belize,Q3043,Belmopan
+Q962,Benin,Q3799,Porto-Novo
+Q917,Bhutan,Q9270,Thimphu
+Q750,Bolivia,Q1491,La Paz
+Q750,Bolivia,Q2907,Sucre
+Q225,Bosnia and Herzegovina,Q11194,Sarajevo
+Q963,Botswana,Q3919,Gaborone
+Q155,Brazil,Q2844,Brasília
+Q921,Brunei,Q9279,Bandar Seri Begawan
+Q219,Bulgaria,Q472,Sofia
+Q965,Burkina Faso,Q3777,Ouagadougou
+Q967,Burundi,Q167551,Gitega
+Q424,Cambodia,Q1850,Phnom Penh
+Q1009,Cameroon,Q3808,Yaoundé
+Q16,Canada,Q1930,Ottawa
+Q1011,Cape Verde,Q3751,Praia
+Q929,Central African Republic,Q3832,Bangui
+Q657,Chad,Q3659,N'Djamena
+Q298,Chile,Q2887,Santiago
+Q739,Colombia,Q2841,Bogotá
+Q970,Comoros,Q3901,Moroni
+Q800,Costa Rica,Q3070,San José
+Q224,Croatia,Q1435,Zagreb
+Q241,Cuba,Q1563,Havana
+Q229,Cyprus,Q3856,Nicosia
+Q213,Czech Republic,Q1085,Prague
+Q974,Democratic Republic of the Congo,Q3838,Kinshasa
+Q977,Djibouti,Q3604,Djibouti
+Q784,Dominica,Q36281,Roseau
+Q786,Dominican Republic,Q34820,Santo Domingo
+Q574,East Timor,Q9310,Dili
+Q736,Ecuador,Q2900,Quito
+Q79,Egypt,Q85,Cairo
+Q792,El Salvador,Q3110,San Salvador
+Q983,Equatorial Guinea,Q3818,Malabo
+Q986,Eritrea,Q3642,Asmara
+Q191,Estonia,Q1770,Tallinn
+Q1050,Eswatini,Q3904,Mbabane
+Q1050,Eswatini,Q101418,Lobamba
+Q115,Ethiopia,Q3624,Addis Ababa
+Q702,Federated States of Micronesia,Q42751,Palikir
+Q702,Federated States of Micronesia,Q514165,Kolonia
+Q712,Fiji,Q38807,Suva
+Q33,Finland,Q1757,Helsinki
+Q142,France,Q90,Paris
+Q200686,French Fifth Republic,Q90,Paris
+Q1000,Gabon,Q3825,Libreville
+Q230,Georgia,Q994,Tbilisi
+Q183,Germany,Q64,Berlin
+Q117,Ghana,Q3761,Accra
+Q41,Greece,Q1524,Athens
+Q769,Grenada,Q41547,St. George's
+Q774,Guatemala,Q1555,Guatemala City
+Q1006,Guinea,Q3733,Conakry
+Q1007,Guinea-Bissau,Q3739,Bissau
+Q734,Guyana,Q10717,Georgetown
+Q790,Haiti,Q34261,Port-au-Prince
+Q783,Honduras,Q3238,Tegucigalpa
+Q28,Hungary,Q1781,Budapest
+Q189,Iceland,Q1764,Reykjavík
+Q668,India,Q987,New Delhi
+Q252,Indonesia,Q3630,Jakarta
+Q794,Iran,Q3616,Tehran
+Q796,Iraq,Q1530,Baghdad
+Q801,Israel,Q1218,Jerusalem
+Q38,Italy,Q220,Rome
+Q1008,Ivory Coast,Q3768,Yamoussoukro
+Q766,Jamaica,Q34692,Kingston
+Q17,Japan,Q1490,Tokyo
+Q810,Jordan,Q3805,Amman
+Q232,Kazakhstan,Q1520,Astana
+Q114,Kenya,Q3870,Nairobi
+Q756617,Kingdom of Denmark,Q1748,Copenhagen
+Q29999,Kingdom of the Netherlands,Q727,Amsterdam
+Q710,Kiribati,Q131233,South Tarawa
+Q817,Kuwait,Q35178,Kuwait City
+Q813,Kyrgyzstan,Q9361,Bishkek
+Q819,Laos,Q9326,Vientiane
+Q211,Latvia,Q1773,Riga
+Q822,Lebanon,Q3820,Beirut
+Q1013,Lesotho,Q3909,Maseru
+Q1014,Liberia,Q3748,Monrovia
+Q1016,Libya,Q3579,Tripoli
+Q347,Liechtenstein,Q1844,Vaduz
+Q37,Lithuania,Q216,Vilnius
+Q32,Luxembourg,Q1842,Luxembourg
+Q1019,Madagascar,Q3915,Antananarivo
+Q1020,Malawi,Q3876,Lilongwe
+Q833,Malaysia,Q1865,Kuala Lumpur
+Q826,Maldives,Q9347,Malé
+Q912,Mali,Q3703,Bamako
+Q233,Malta,Q23800,Valletta
+Q709,Marshall Islands,Q12919,Majuro
+Q1025,Mauritania,Q3688,Nouakchott
+Q1027,Mauritius,Q3929,Port Louis
+Q96,Mexico,Q1489,Mexico City
+Q217,Moldova,Q21197,Chișinău
+Q235,Monaco,Q55115,Monaco City
+Q711,Mongolia,Q23430,Ulaanbaatar
+Q236,Montenegro,Q23564,Podgorica
+Q1028,Morocco,Q3551,Rabat
+Q1029,Mozambique,Q3889,Maputo
+Q836,Myanmar,Q37400,Naypyidaw
+Q1030,Namibia,Q3935,Windhoek
+Q697,Nauru,Q31026,Yaren District
+Q837,Nepal,Q3037,Kathmandu
+Q664,New Zealand,Q23661,Wellington
+Q811,Nicaragua,Q3274,Managua
+Q1032,Niger,Q3674,Niamey
+Q1033,Nigeria,Q3787,Abuja
+Q423,North Korea,Q18808,Pyongyang
+Q221,North Macedonia,Q384,Skopje
+Q20,Norway,Q585,Oslo
+Q842,Oman,Q3826,Muscat
+Q21056,Onondaga Nation,,
+Q843,Pakistan,Q1362,Islamabad
+Q695,Palau,Q515229,Ngerulmud
+Q804,Panama,Q3306,Panama City
+Q691,Papua New Guinea,Q36526,Port Moresby
+Q733,Paraguay,Q2933,Asunción
+Q148,People's Republic of China,Q956,Beijing
+Q419,Peru,Q2868,Lima
+Q928,Philippines,Q1461,Manila
+Q36,Poland,Q270,Warsaw
+Q45,Portugal,Q597,Lisbon
+Q846,Qatar,Q3861,Doha
+Q27,Republic of Ireland,Q1761,Dublin
+Q971,Republic of the Congo,Q3844,Brazzaville
+Q218,Romania,Q19660,Bucharest
+Q159,Russia,Q649,Moscow
+Q1037,Rwanda,Q3859,Kigali
+Q763,Saint Kitts and Nevis,Q41295,Basseterre
+Q760,Saint Lucia,Q41699,Castries
+Q757,Saint Vincent and the Grenadines,Q41474,Kingstown
+Q683,Samoa,Q36260,Apia
+Q238,San Marino,Q1848,San Marino
+Q851,Saudi Arabia,Q3692,Riyadh
+Q1041,Senegal,Q3718,Dakar
+Q403,Serbia,Q3711,Belgrade
+Q1042,Seychelles,Q3940,Victoria
+Q1044,Sierra Leone,Q3780,Freetown
+Q334,Singapore,Q334,Singapore
+Q214,Slovakia,Q1780,Bratislava
+Q215,Slovenia,Q437,Ljubljana
+Q685,Solomon Islands,Q40921,Honiara
+Q1045,Somalia,Q2449,Mogadishu
+Q258,South Africa,Q3926,Pretoria
+Q258,South Africa,Q5465,Cape Town
+Q258,South Africa,Q37701,Bloemfontein
+Q884,South Korea,Q8684,Seoul
+Q958,South Sudan,Q1947,Juba
+Q29,Spain,Q2807,Madrid
+Q854,Sri Lanka,Q35381,Colombo
+Q854,Sri Lanka,Q41963,Sri Jayawardenepura Kotte
+Q219060,State of Palestine,Q1218,Jerusalem
+Q219060,State of Palestine,Q158119,Ramallah
+Q1049,Sudan,Q1963,Khartoum
+Q730,Suriname,Q3001,Paramaribo
+Q34,Sweden,Q1754,Stockholm
+Q39,Switzerland,Q70,Bern
+Q858,Syria,Q3766,Damascus
+Q1039,São Tomé and Príncipe,Q3932,São Tomé
+Q865,Taiwan,Q1867,Taipei
+Q863,Tajikistan,Q9365,Dushanbe
+Q924,Tanzania,Q3866,Dodoma
+Q869,Thailand,Q1861,Bangkok
+Q778,The Bahamas,Q2467,Nassau
+Q1005,The Gambia,Q3726,Banjul
+Q945,Togo,Q3792,Lomé
+Q678,Tonga,Q38834,Nuku'alofa
+Q754,Trinidad and Tobago,Q39178,Port of Spain
+Q948,Tunisia,Q3572,Tunis
+Q43,Turkey,Q3640,Ankara
+Q874,Turkmenistan,Q23438,Ashgabat
+Q672,Tuvalu,Q34126,Funafuti
+Q1036,Uganda,Q3894,Kampala
+Q212,Ukraine,Q1899,Kyiv
+Q878,United Arab Emirates,Q1519,Abu Dhabi
+Q145,United Kingdom,Q84,London
+Q30,United States of America,Q61,"Washington, D.C."
+Q77,Uruguay,Q1335,Montevideo
+Q265,Uzbekistan,Q269,Tashkent
+Q686,Vanuatu,Q37806,Port Vila
+Q237,Vatican City,Q237,Vatican City
+Q717,Venezuela,Q1533,Caracas
+Q881,Vietnam,Q1858,Hanoi
+Q805,Yemen,Q2471,Sanaa
+Q805,Yemen,Q131694,Aden
+Q953,Zambia,Q3881,Lusaka
+Q954,Zimbabwe,Q3921,Harare
